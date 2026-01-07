@@ -46,7 +46,7 @@ For each element:
 - **O(n)**  — The array is traversed only once.
 
 ### 💾 Space Complexity
-- **O(n)**  — Only constant extra space is used.
+- **O(1)**  — Only constant extra space is used.
 
 
 ---
