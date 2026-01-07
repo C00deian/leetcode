@@ -64,7 +64,7 @@ class Solution {
     }
 }```
 
-```html
+```text
 <details> <summary><strong>⏱️ Complexity Analysis (Click to expand)</strong></summary>
 ⌛ Time Complexity
 
@@ -76,4 +76,4 @@ O(n) — Worst case (skewed tree)
 
 O(log n) — Balanced tree (due to recursion stack)
 
-</details> ```
+</details>
