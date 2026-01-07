@@ -49,7 +49,7 @@ This problem uses **Depth First Search (DFS)** with recursion.
 ---
 
 ## 🛠️ Java Implementation
-
+```java
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
@@ -65,13 +65,16 @@ class Solution {
     }
 }
 
----
 
-## ⏱️ Complexity Analysis
+<details>
+<summary><strong>⏱️ Complexity Analysis (Click to expand)</strong></summary>
 
 ### ⌛ Time Complexity
-- **O(n)** — Every node is visited exactly once.
+- **O(n)** — Each node visited once
 
 ### 💾 Space Complexity
-- **O(n)** — Worst case (skewed tree)
-- **O(log n)** — Balanced tree (due to recursion stack)
+- **O(n)** — Skewed tree
+- **O(log n)** — Balanced tree
+
+</details>
+
