@@ -2,7 +2,7 @@
 
 # 📈 53. Maximum Subarray
 
-<strong>Difficulty:</strong> 🟢 Easy<br>
+<strong>Difficulty:</strong> 🟡 Medium<br>
 <strong>Topic:</strong> Stack, Tree, Depth-First Search, Binary Tree
 
 

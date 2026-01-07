@@ -17,7 +17,7 @@ direct links to **LeetCode problems** and **solutions**.
 
 | #  | Problem                          | Difficulty     | LeetCode | Solution |
 |----|----------------------------------|----------------|----------|----------|
-| 53 | Maximum Subarray                 |  🟡 Medimum    | [Open](https://leetcode.com/problems/maximum-subarray/) | [View](./Arrays/053-maximum-subarray/README.md) |
+| 53 | Maximum Subarray                 |  🟡 Medium    | [Open](https://leetcode.com/problems/maximum-subarray/) | [View](./Arrays/053-maximum-subarray/README.md) |
 
 ---
 

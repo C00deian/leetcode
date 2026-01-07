@@ -2,8 +2,10 @@
 
 # 🌳 94. Binary Tree Inorder Traversal
 
-**Difficulty:** 🟢 Easy
-**Topic:**    Stack, Tree, Depth-First Search, Binary Tree
+<strong>Difficulty:</strong> 🟢 Easy<br>
+<strong>Topic:</strong> Stack, Tree, Depth-First Search, Binary Tree
+
+
 
 ---
 
