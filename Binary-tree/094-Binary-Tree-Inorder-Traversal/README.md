@@ -47,6 +47,16 @@ This problem uses **Depth First Search (DFS)** with recursion.
 
 ---
 
+## ⏱️ Complexity Analysis
+
+### ⌛ Time Complexity
+- **O(n)** — Every node is visited exactly once.
+
+### 💾 Space Complexity
+- **O(n)** — Worst case (skewed tree)
+- **O(log n)** — Balanced tree (due to recursion stack)
+
+
 ## 🛠️ Java Implementation
 ```java
 class Solution {
@@ -62,18 +72,4 @@ class Solution {
         result.add(root.val);
         inorder(root.right, result);
     }
-}```
-
-```text
-<details> <summary><strong>⏱️ Complexity Analysis (Click to expand)</strong></summary>
-⌛ Time Complexity
-
-O(n) — Each node is visited exactly once.
-
-💾 Space Complexity
-
-O(n) — Worst case (skewed tree)
-
-O(log n) — Balanced tree (due to recursion stack)
-
-</details>
+}
