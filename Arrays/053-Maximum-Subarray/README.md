@@ -3,7 +3,7 @@
 # 📈 53. Maximum Subarray
 
 <strong>Difficulty:</strong> 🟡 Medium<br>
-<strong>Topic:</strong> Stack, Tree, Depth-First Search, Binary Tree
+<strong>Topic:</strong>  Array, Dynamic Programming, Kadane’s Algorithm
 
 
 ---
