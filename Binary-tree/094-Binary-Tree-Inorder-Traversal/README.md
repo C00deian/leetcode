@@ -49,7 +49,7 @@ This problem uses **Depth First Search (DFS)** with recursion.
 ---
 
 ## 🛠️ Java Implementation
-```java
+
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
