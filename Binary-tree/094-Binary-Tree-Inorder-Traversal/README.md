@@ -62,8 +62,9 @@ class Solution {
         result.add(root.val);
         inorder(root.right, result);
     }
-}
+}```
 
+```html
 <details> <summary><strong>⏱️ Complexity Analysis (Click to expand)</strong></summary>
 ⌛ Time Complexity
 
