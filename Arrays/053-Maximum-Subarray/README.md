@@ -3,7 +3,7 @@
 # 📈 53. Maximum Subarray
 
 **Difficulty:** 🟡 Medimum
-**Topic:** Array, Dynamic Programming, Kadane’s Algorithm
+**Topic:**     Array, Dynamic Programming, Kadane’s Algorithm
 
 ---
 

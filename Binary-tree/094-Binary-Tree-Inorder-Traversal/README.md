@@ -3,7 +3,7 @@
 # 🌳 94. Binary Tree Inorder Traversal
 
 **Difficulty:** 🟢 Easy
-**Topic:** Stack, Tree, Depth-First Search, Binary Tree
+**Topic:**    Stack, Tree, Depth-First Search, Binary Tree
 
 ---
 
