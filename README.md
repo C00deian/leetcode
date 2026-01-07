@@ -1,13 +1,13 @@
-# 📘 DSA / LeetCode Revision Index
+# 📘  LeetCode  / DSA Revision
 
-This repository contains my **Data Structures & Algorithms** practice notes with  
-direct links to **LeetCode problems** and my **solutions**.
+This repository contains **Data Structures & Algorithms** practice notes with
+direct links to **LeetCode problems** and **solutions**.
 
 ---
 
 ## 🌳 Binary Tree
 
-| #  | Problem                         | Difficulty | LeetCode | Solution |
+| #  | Problem                          | Difficulty | LeetCode | Solution |
 |----|----------------------------------|------------|----------|----------|
 | 94 | Binary Tree Inorder Traversal    | 🟢 Easy    | [Open](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [View](./Binary-tree/094-Binary-Tree-Inorder-Traversal/README.md) |
 
@@ -15,9 +15,9 @@ direct links to **LeetCode problems** and my **solutions**.
 
 ## 📦 Arrays
 
-| # | Problem | Difficulty | LeetCode | Solution |
-|---|---------|------------|----------|----------|
-<!-- Add array problems here -->
+| #  | Problem                          | Difficulty     | LeetCode | Solution |
+|----|----------------------------------|----------------|----------|----------|
+| 53 | Maximum Subarray                 |  🟡 Medimum    | [Open](https://leetcode.com/problems/maximum-subarray/) | [View](./Arrays/053-maximum-subarray/README.md) |
 
 ---
 
