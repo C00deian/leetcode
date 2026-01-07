@@ -2,8 +2,8 @@
 
 # 🌳 94. Binary Tree Inorder Traversal
 
-**Difficulty:** 🟢 Easy
-**Topic:**   Stack, Tree, Depth-First-Search, Binary Tree
+**Difficulty:** 🟢 Easy  
+**Topic:** Stack, Tree, Depth-First Search, Binary Tree
 
 ---
 
@@ -19,8 +19,7 @@ In inorder traversal, nodes are visited in the following order:
 - ➡️ Root Node
 - ➡️ Right Subtree
 
-
-📌 **Important Note:**
+📌 **Important Note:**  
 If the tree is a **Binary Search Tree (BST)**, inorder traversal always returns values in **sorted (ascending) order**.
 
 ---
@@ -65,16 +64,15 @@ class Solution {
     }
 }
 
+<details> <summary><strong>⏱️ Complexity Analysis (Click to expand)</strong></summary>
+⌛ Time Complexity
 
-<details>
-<summary><strong>⏱️ Complexity Analysis (Click to expand)</strong></summary>
+O(n) — Each node is visited exactly once.
 
-### ⌛ Time Complexity
-- **O(n)** — Each node visited once
+💾 Space Complexity
 
-### 💾 Space Complexity
-- **O(n)** — Skewed tree
-- **O(log n)** — Balanced tree
+O(n) — Worst case (skewed tree)
 
-</details>
+O(log n) — Balanced tree (due to recursion stack)
 
+</details> ```
